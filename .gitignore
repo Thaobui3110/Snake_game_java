@@ -1,0 +1,15 @@
+# Compiled Java class files
+*.class
+
+# High score file — tự sinh khi chạy game, không cần versioning
+highscore.txt
+CLAUDE.md
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
